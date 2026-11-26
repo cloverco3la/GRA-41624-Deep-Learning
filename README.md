@@ -11,6 +11,7 @@ To install a consistent environment that works both for mac and windows laptop I
 5. pip install tensorflow
 6. pip install tensorflow-metal
 7. pip install tqdm
+8. pip install scikit-image
 
 ---
 
