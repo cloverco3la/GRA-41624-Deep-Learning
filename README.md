@@ -11,3 +11,7 @@ To install a consistent environment that works both for mac and windows laptop I
 5. pip install tensorflow
 6. pip install tensorflow-metal
 7. pip install tqdm
+
+---
+
+The gitignore file serves as a way to make it that you can add the large data files for exercise 2 in your local machine without git throwing a fit
